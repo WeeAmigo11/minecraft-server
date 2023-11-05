@@ -1,2 +1,6 @@
 # minecraft-server
-One of my projects is my Minecraft server. I decided to upload its build to my GitHub. Check it out. 
+Это один из моих проектов - мой Minecraft сервер. Я решил выложить его код на GitHub. Оцените его!
+
+## Информация
+Версия игры - 1.20.1
+(включена поддержка других версий, при помощи ViaVersion/ViaBackwords)
