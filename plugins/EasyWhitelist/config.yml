@@ -1,0 +1,4 @@
+whitelist: false
+no_whitelisted: '&6Доступ запрещён!'
+whitelisted:
+- github

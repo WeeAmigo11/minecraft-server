@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "ThreePrism62042",
+      "uniqueId": "445db61d-98ba-3308-9f08-27605ccfd757"
+    },
+    "time": 1685526563591,
+    "type": "Heap dump",
+    "data": {
+      "type": "file",
+      "value": "plugins/spark/heap-2023-05-31_12.49.16.hprof"
+    }
+  }
+]
